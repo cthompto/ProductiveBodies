@@ -16,4 +16,6 @@ included here.
 
 (Note: All code is a work in progress)
 
+Find more information at: https://www.chelseathompto.com
+
 Have questions? Email chelsea.l.thompto@gmail.com
