@@ -11,4 +11,9 @@ Uses Processing with the Processing sound and video libraries.
 This project includes both the video and sound portions of the poece, both of which blend and layer curated media lists to
 create a procedurally generated collage.
 
+All media files use a filing system consisting of a number followed by a letter like: 1a.wav or 2c.mov. Media files not
+included here.
+
+(Note: All code is a work in progress)
+
 Have questions? Email chelsea.l.thompto@gmail.com
